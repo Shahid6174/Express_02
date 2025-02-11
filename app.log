@@ -1,0 +1,7 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/student\",\"status\":\"201\",\"responseTime\":\"22.728\"}","timestamp":"2025-02-11T09:09:34.472Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/student\",\"status\":\"200\",\"responseTime\":\"0.748\"}","timestamp":"2025-02-11T09:09:42.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/student/2\",\"status\":\"404\",\"responseTime\":\"0.796\"}","timestamp":"2025-02-11T09:09:51.162Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/student/1\",\"status\":\"200\",\"responseTime\":\"0.684\"}","timestamp":"2025-02-11T09:09:57.958Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/student/1\",\"status\":\"200\",\"responseTime\":\"1.872\"}","timestamp":"2025-02-11T09:10:04.772Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/student/2\",\"status\":\"404\",\"responseTime\":\"0.586\"}","timestamp":"2025-02-11T09:10:12.421Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/student/1\",\"status\":\"200\",\"responseTime\":\"0.483\"}","timestamp":"2025-02-11T09:10:18.629Z"}
