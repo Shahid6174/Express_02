@@ -1,0 +1,10 @@
+Step 1: npm init -y --> Then fill in the details
+Step 2: Under scripts in package.json put "start":"node index.js"
+Step 3: Put "type" : "module" for importing
+Step 4: npm run start
+Step 5: "npm install " the dependencies, eg npm install express
+Step 6: npm i -D nodemon, wont send the downloaded dev dependencies with -D to server
+Step 7: Under scripts in package.json put "dev":"nodemon index.js"
+Step 8: Now everytime time you run ---> npm run dev instead of npm run start
+Step 9: everytime you come, do npm insall and then run the code.
+

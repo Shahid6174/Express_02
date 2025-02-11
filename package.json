@@ -1,0 +1,23 @@
+{
+  "name": "shahid",
+  "version": "1.0.0",
+  "description": "a guy who can do anything",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "shahid"
+  ],
+  "author": "Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
